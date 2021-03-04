@@ -1,1 +1,2 @@
-# NLP_Project
+# Sentiment Analysis - First steps
+
